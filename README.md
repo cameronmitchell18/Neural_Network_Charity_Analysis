@@ -1,2 +1,2 @@
-# Nueral Network Analysis
+# Neural Network Analysis
 
