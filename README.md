@@ -10,4 +10,4 @@ The purpose of this project was to introduce us to the Neural Networks and Tenso
 
     - I first started out by dropping "EIN" and "NAME" from our DataFrame. 
 
-![EIN Name](images\"EIN Name.png")
+![EIN Name](images/"EIN Name.png")
