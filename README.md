@@ -16,3 +16,7 @@ The purpose of this project was to introduce us to the Neural Networks and Tenso
     - Next, I used "IS_SUCCESSFUL" to determine if the charity donation was used in an effective manner. This is then considered as the target for the Neural Netwrok. This is also where i define my train, test, and split. 
 
     ![](/images/IS_SUCCESSFUL.png)
+
+    - The image below then lays out the features of our model: 
+
+    ![](/images/models.png)
